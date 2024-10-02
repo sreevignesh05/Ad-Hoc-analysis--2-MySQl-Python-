@@ -2,32 +2,56 @@
 This is my ad-hoc project using MySQL on AtliQ Hardware 
 
 # <a href="" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=FkqjAX6ZGe4B&format=png&color=000000" width="35" /></a> INTRODUCTION :
-AtliQ hardware(imaginary company) is one of the Electronic hardware producers in india.
+Atliq Hardwares (imaginary company) is one of the leading computer hardware producers in India and well expanded in other countries too.
 
 # <a href="" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=9oTCQxbJ7BPy&format=png&color=000000" width="35" /></a> Problem Statement: 
-I am provided with a dataset containing multiple tables related to an organization’s operations. My task is to write SQL queries to extract meaningful insights from the data based on specific business questions. The goal is to provide quick, actionable insights that help stakeholders make data-driven decisions.
+The management noticed that they do not get enough insights to make quick and smart data-informed decisions. 
+
+# <a href="" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=B9dt5a2xAqNl&format=png&color=000000" width="35" /></a> Objective: 
+- Address all ad-hoc requests.
+- Uncover hidden insights to meet the business needs.
 
 # <a href="" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=zeuUPoSqsDd3&format=png&color=000000" width="35" /></a>  Requests:
 
-- As a product owner, I want to generate a report of individual product sales (aggregated on a monthly basis at the product level) for Amazon India customers for FY=2021 so that I can track individual product sales.
+- Provide the list of markets in which customer **"Atliq Exclusive"** operates its
+business in the **APAC region.**
   
-- As a product owner, I need an aggregate monthly gross sales report for Croma India customer so that I can track how much sales this particular customer is generating for AtliQ and manage our relationships accordingly.
+- What is the **percentage** of **unique product increase in 2021 vs. 2020?** The final output contains these fields,
 
-- Create a stored procedure for monthly gross sales reports so that I don't have to manually modify the query every time so that I generate this report without involving the data analytics team.
+  (unique_products_2020 | unique_products_2021 | percentage_chg)
 
-- A stored procedure that can determine the market badge based on the following logic <a href="" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=JBsFFuVDTkKw&format=png&color=000000" width="35" /></a> If total sold quantity > 5 million that market is considered Gold else it is Silver.
+- Provide a report with all the **unique product counts** for each **segment** and sort them in descending order of product counts. The final output contains 2 fields,
 
-- Stored procedure: For Top Customers. 
+  (segment | product_count)
 
-- Stored procedure: For Top Products.
+- Follow-up: Which **segment** had the **most increase in unique products in 2021 vs 2020?** The final output contains these fields,
 
-- Stored procedure: For Top Markets.
+  (segment | product_count_2020 | product_count_2021 | difference)
 
-- Need an aggregate forecast accuracy report for all the customers for a given fiscal year so that I can track the accuracy of the forecast we make for these customers.
+- Get the **products** that have the **highest and lowest manufacturing costs.** The final output should contain these fields,
 
-- A store procedure for Top markets in each region.
+  (product_code | product | manufacturing_cost)
 
-- A store procedure for Top Products in each division by sold quantity.
+- Generate a report which contains the **top 5 customers** who received an **average high pre_invoice_discount_pct for the fiscal year 2021** and in the **Indian market.** The final output contains these fields,
+
+  (customer_code | customer | average_discount_percentage)
+
+- Get the complete report of the **Gross sales amount for the customer “Atliq Exclusive” for each month.** This analysis helps to get an idea of low and high-performing months and take strategic decisions. The final report contains these columns:
+
+  (Month | Year | Gross sales Amount)
+
+-  In which **quarter of 2020**, got the **maximum total_sold_quantity?** The final output contains these fields sorted by the total_sold_quantity,
+
+    (Quarter | total_sold_quantity)
+
+- Which **channel** helped to bring **more gross sales in the fiscal year 2021** and the **percentage of contribution?** The final output contains these fields,
+
+  (channel | gross_sales_mln | percentage)
+
+
+- Get the **Top 3 products in each division that have a high total_sold_quantity in the fiscal_year 2021?** The final output contains these fields,
+
+  (division | product_code | product | total_sold_quantity | rank_order)
 
   #
 
