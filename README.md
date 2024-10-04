@@ -57,7 +57,7 @@ business in the **APAC region.**
 
   <a href="" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=iWw83PVcBpLw&format=png&color=000000" width="40" /></a> To view my Canva presentaion file _[click here](https://www.canva.com/design/DAGSVBYuMBw/6KW3giea4kXnJgpdviHxsQ/edit?utm_content=DAGSVBYuMBw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)_
 
-  <a href="" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=qLVB1tIe9Ts9&format=png&color=000000" width="40" /></a> To view my Presentation video on youtube _[click here](https://dummy)_
+  <a href="" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=qLVB1tIe9Ts9&format=png&color=000000" width="40" /></a> To view my Presentation video on youtube _[click here](https://youtu.be/tWt2An0wGm8)_
 
   <a href="" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=B2kE1iYkRIiw&format=png&color=000000" width="40" /></a> To view my Portfolio wbsite _[click here](https://codebasics.io/portfolio/SREE-VIGNESH-S)_
 
