@@ -61,5 +61,5 @@ business in the **APAC region.**
 
   <a href="" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=B2kE1iYkRIiw&format=png&color=000000" width="40" /></a> To view my Portfolio wbsite _[click here](https://codebasics.io/portfolio/SREE-VIGNESH-S)_
 
-  <a href="" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=MR3dZdlA53te&format=png&color=000000" width="40" /></a> To view my LinkedIn post engagement _[click here](https://dummy)_
+  <a href="" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=MR3dZdlA53te&format=png&color=000000" width="40" /></a> To view my LinkedIn post engagement _[click here](https://www.linkedin.com/posts/sree-vignesh-05-_dataanalysis-businessanalyst-adhocanalysis-activity-7247853346173206530-8yYK?utm_source=share&utm_medium=member_desktop)_
   
